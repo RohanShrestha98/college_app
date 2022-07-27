@@ -1,0 +1,24 @@
+{
+    "classes" : [
+        {
+            "id" : 1,
+            "classes" : "Database Lecture"
+        },
+        {
+            "id" : 2,
+            "classes" : "ISA Tutorial"
+        },
+        {
+            "id" : 3,
+            "classes" : "Embeded Workshop"
+        },
+        {
+            "id" : 4,
+            "classes" : "ISA Lecture"
+        },
+        {
+            "id" : 5,
+            "classes" : "Embeded Lecture"
+        }
+    ]
+}
